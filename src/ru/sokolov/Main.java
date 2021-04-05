@@ -7,6 +7,7 @@ public class Main {
     public static void main(String[] args) {
         // тест GitHub
         System.out.println("тест GitHub");
+        System.out.println();
 
 	// не возвращающие методы
         printMsg();
