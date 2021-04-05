@@ -8,6 +8,8 @@ public class Main {
         // тест GitHub
         System.out.println("тест GitHub");
         System.out.println();
+        System.out.println();
+
 
 	// не возвращающие методы
         printMsg();
