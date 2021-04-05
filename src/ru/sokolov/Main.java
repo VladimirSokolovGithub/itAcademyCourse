@@ -1,8 +1,13 @@
 package ru.sokolov;
 
+import javax.crypto.spec.PSource;
+
 public class Main {
 
     public static void main(String[] args) {
+        // тест GitHub
+        System.out.println("тест GitHub");
+
 	// не возвращающие методы
         printMsg();
         String str = "Hello";
