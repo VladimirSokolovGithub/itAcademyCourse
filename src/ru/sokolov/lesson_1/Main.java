@@ -1,4 +1,4 @@
-package ru.sokolov;
+package ru.sokolov.lesson_1;
 
 import javax.crypto.spec.PSource;
 
