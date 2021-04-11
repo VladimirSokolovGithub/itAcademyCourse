@@ -7,6 +7,18 @@ import java.util.Arrays;
 public class HomeWorkLesson_2 {
     public static void main(String[] args) throws Exception {
         // Консольный калькулятор
+//        Задание.
+//                Создать консольный калькулятор
+//        1 Базовый калькулятор
+//        Введите два числа через пробел, пример
+//        1 + 2
+//        или
+//        2 * 2
+//        (должно быть доступно 4 операции +
+///
+//        при этом если пользователь выбирает какое
+//        либо другое действие нужно об этом сказать
+
                 System.out.println("Enter the numbers and the operation sign:(\"+\"; \"-\"; \"/\"; \"*\") " +
                 "separated by a space (for example 2 / 3)");
         Double number1;
