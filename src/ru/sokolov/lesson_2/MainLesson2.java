@@ -2,7 +2,7 @@ package ru.sokolov.lesson_2;
 
 import java.util.Arrays;
 
-public class MainClass {
+public class MainLesson2 {
     public static void main(String[] args) {
         // Проверка примитивных и ссылочных типов данных
         /*
@@ -199,7 +199,7 @@ public class MainClass {
         // Цикл foreach для двумерного массива
         int[][] table3 = {{1,2,3,4},{5,6,7,8},{9,10,11,12}};
         for (int[] i: table3) { // int[] i - заходим в наш первый массив размерностью 3 эл-та
-            for (int j: i) { // перебераем нашы вложенные одномерные массивы
+            for (int j: i) { // перебираем наш вложенный одномерный массив
                 System.out.print(j + " ");
             }
             System.out.println();

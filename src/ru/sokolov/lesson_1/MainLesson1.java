@@ -1,8 +1,8 @@
 package ru.sokolov.lesson_1;
-
+//Введение в Java, условные операторы
 import javax.crypto.spec.PSource;
 
-public class Main {
+public class MainLesson1 {
 
     public static void main(String[] args) {
         // тест GitHub
